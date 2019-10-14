@@ -1,0 +1,21 @@
+@font-face{
+    font-family: "Famosa";
+    src: url("fonts/Famosa-BlackDemo.otf");
+    src: local('?'),
+        url("fonts/Famosa-BoldDemo.otf") format("otf"),
+        url("fonts/Famosa-ThinDemo.otf") format("otf");
+
+
+}
+
+
+/* Fuente descargada */
+h1{
+    font-family :" Famosa"; 
+}
+
+
+/* Fuente google Fonts */
+p{
+    font-family: 'Oxygen', sans-serif;
+}
