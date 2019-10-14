@@ -42,7 +42,7 @@ header nav #card_menu{
 }
 
 
-header nav #card_menu #logo_menu img{
+header nav #card_menu #logo_menu{
     background: red;
     height: 200px;
     width: 80%;
@@ -53,23 +53,23 @@ header nav #card_menu #logo_menu img{
     }
 
 header nav #card_menu #logo_menu img{
-   width: 100%
+   width: 100%;
     
     }
 
- header nav #card_menu #logo_menu ul{
+ header nav #card_menu ul{
    background: red;
- margin-top: -20px;
+   margin-top: -20px;
          
  }
 
-header nav #card_menu #logo_menu ul li{
+header nav #card_menu ul li{
     list-style: none;
     font-size: 1.5em;
     line-height: 37px;
 }
 
-header nav #card_menu #logo_menu ul a{
+header nav #card_menu ul li a{
     text-decoration: none;
     color: black;
 }
